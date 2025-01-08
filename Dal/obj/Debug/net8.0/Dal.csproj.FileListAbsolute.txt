@@ -1,0 +1,57 @@
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\This User\source\repos\shop\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\IDal.dll
+C:\Users\This User\source\repos\shop\Dal\bin\Debug\net8.0\IDal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\Dal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\Dal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\Dto.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\IDal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\Dto.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\bin\Debug\net8.0\IDal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\IDal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\bin\Debug\net8.0\IDal.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\ref\Dal.dll

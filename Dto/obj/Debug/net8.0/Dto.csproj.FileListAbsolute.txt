@@ -1,0 +1,33 @@
+C:\Users\This User\source\repos\shop\Dto\bin\Debug\net8.0\Dto.deps.json
+C:\Users\This User\source\repos\shop\Dto\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\source\repos\shop\Dto\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\Dto.dll
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\Dto.pdb
+C:\Users\This User\source\repos\shop\Dto\obj\Debug\net8.0\ref\Dto.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\bin\Debug\net8.0\Dto.deps.json
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\bin\Debug\net8.0\Dto.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\bin\Debug\net8.0\Dto.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\Dto.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\refint\Dto.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\Dto.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Dto\obj\Debug\net8.0\ref\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\bin\Debug\net8.0\Dto.deps.json
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\refint\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\Dto.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\ref\Dto.dll

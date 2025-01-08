@@ -1,0 +1,63 @@
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\Bll.deps.json
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\Bll.dll
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\Bll.pdb
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.dll
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\Bll.pdb
+C:\Users\This User\source\repos\shop\Bll\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\IBll.dll
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\IDal.dll
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\IBll.pdb
+C:\Users\This User\source\repos\shop\Bll\bin\Debug\net8.0\IDal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\Bll.deps.json
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\Bll.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\Bll.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\Dal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\Dto.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\IBll.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\IDal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\Dal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\Dto.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\IBll.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\bin\Debug\net8.0\IDal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.csproj.Up2Date
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\refint\Bll.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\Bll.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\Bll\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\Bll.deps.json
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\Bll.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\Bll.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\Dal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\IBll.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\IDal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\Dal.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\IBll.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\bin\Debug\net8.0\IDal.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.csproj.Up2Date
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\ref\Bll.dll

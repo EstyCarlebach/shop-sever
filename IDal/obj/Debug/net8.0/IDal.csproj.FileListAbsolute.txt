@@ -1,0 +1,45 @@
+C:\Users\This User\source\repos\shop\IDal\bin\Debug\net8.0\IDal.deps.json
+C:\Users\This User\source\repos\shop\IDal\bin\Debug\net8.0\IDal.dll
+C:\Users\This User\source\repos\shop\IDal\bin\Debug\net8.0\IDal.pdb
+C:\Users\This User\source\repos\shop\IDal\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\source\repos\shop\IDal\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.csproj.AssemblyReference.cache
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.AssemblyInfoInputs.cache
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.AssemblyInfo.cs
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.csproj.CoreCompileInputs.cache
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.csproj.Up2Date
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.dll
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\refint\IDal.dll
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\IDal.pdb
+C:\Users\This User\source\repos\shop\IDal\obj\Debug\net8.0\ref\IDal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\bin\Debug\net8.0\IDal.deps.json
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\bin\Debug\net8.0\IDal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\bin\Debug\net8.0\IDal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\bin\Debug\net8.0\Dto.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\bin\Debug\net8.0\Dto.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.csproj.AssemblyReference.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.AssemblyInfoInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.AssemblyInfo.cs
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.csproj.CoreCompileInputs.cache
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.csproj.Up2Date
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\refint\IDal.dll
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\IDal.pdb
+D:\לימודים\מסלול\פרויקטים\חנות פרות וירקות\shop\IDal\obj\Debug\net8.0\ref\IDal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\bin\Debug\net8.0\IDal.deps.json
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\bin\Debug\net8.0\IDal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\bin\Debug\net8.0\IDal.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\bin\Debug\net8.0\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\bin\Debug\net8.0\Dto.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.csproj.AssemblyReference.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.AssemblyInfoInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.AssemblyInfo.cs
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.csproj.CoreCompileInputs.cache
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.csproj.Up2Date
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\refint\IDal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.pdb
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\ref\IDal.dll
