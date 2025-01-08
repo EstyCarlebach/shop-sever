@@ -7,6 +7,10 @@
         {
             this.dalC = c;
         }
+
+
+
+
         public async Task<List<Dto.Company>> Get()
         {
             return await dalC.Get();

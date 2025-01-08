@@ -31,3 +31,4 @@ C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר 
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\refint\Dto.dll
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\Dto.pdb
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dto\obj\Debug\net8.0\ref\Dto.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\Shop\Dto\obj\Debug\net8.0\Dto.sourcelink.json

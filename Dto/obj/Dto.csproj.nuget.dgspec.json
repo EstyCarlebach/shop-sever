@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dto\\Dto.csproj": {}
+    "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dto\\Dto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dto\\Dto.csproj": {
+    "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dto\\Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dto\\Dto.csproj",
+        "projectUniqueName": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dto\\Dto.csproj",
         "projectName": "Dto",
-        "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dto\\Dto.csproj",
+        "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dto\\Dto.csproj",
         "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dto\\obj\\",
         "projectStyle": "PackageReference",

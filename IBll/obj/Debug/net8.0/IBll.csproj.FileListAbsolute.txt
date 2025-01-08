@@ -55,3 +55,4 @@ C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר 
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IBll\obj\Debug\net8.0\refint\IBll.dll
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IBll\obj\Debug\net8.0\IBll.pdb
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IBll\obj\Debug\net8.0\ref\IBll.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\Shop\IBll\obj\Debug\net8.0\IBll.sourcelink.json

@@ -55,3 +55,4 @@ C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר 
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.pdb
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\Shop\Dal\obj\Debug\net8.0\Dal.sourcelink.json

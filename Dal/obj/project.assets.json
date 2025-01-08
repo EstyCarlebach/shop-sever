@@ -4088,9 +4088,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dal\\Dal.csproj",
+      "projectUniqueName": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dal\\Dal.csproj",
       "projectName": "Dal",
-      "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dal\\Dal.csproj",
+      "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dal\\Dal.csproj",
       "packagesPath": "C:\\Users\\This User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dal\\obj\\",
       "projectStyle": "PackageReference",
@@ -4114,11 +4114,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dto\\Dto.csproj": {
-              "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\Dto\\Dto.csproj"
+            "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dto\\Dto.csproj": {
+              "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\Dto\\Dto.csproj"
             },
-            "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\IDal\\IDal.csproj": {
-              "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\shop\\IDal\\IDal.csproj"
+            "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\IDal\\IDal.csproj": {
+              "projectPath": "C:\\Users\\This User\\Documents\\מסלול\\שנה ב\\פרויקטים\\אנגולר וC#\\Shop\\IDal\\IDal.csproj"
             }
           }
         }

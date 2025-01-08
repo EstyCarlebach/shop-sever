@@ -43,3 +43,4 @@ C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר 
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\refint\IDal.dll
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\IDal.pdb
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\IDal\obj\Debug\net8.0\ref\IDal.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\Shop\IDal\obj\Debug\net8.0\IDal.sourcelink.json

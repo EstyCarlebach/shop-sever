@@ -61,3 +61,4 @@ C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר 
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\refint\Bll.dll
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\Bll.pdb
 C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\shop\Bll\obj\Debug\net8.0\ref\Bll.dll
+C:\Users\This User\Documents\מסלול\שנה ב\פרויקטים\אנגולר וC#\Shop\Bll\obj\Debug\net8.0\Bll.sourcelink.json
